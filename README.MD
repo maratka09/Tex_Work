@@ -29,10 +29,6 @@ cd ai_chat
 
 Bash
 cd backend
-# Если Node.js:
-npm install
-npm start
-# Если Python:
 pip install -r requirements.txt
 python manage.py runserver
 3. Запуск Frontend
