@@ -24,7 +24,7 @@ Fonts: Montserrat (Google Fonts).
 
 Bash
 git clone https://github.com/maratka09/Tex_Work.git
-cd название-репозитория
+cd ai_chat
 2. Запуск Backend
 
 Bash
