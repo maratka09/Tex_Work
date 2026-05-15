@@ -23,7 +23,7 @@ Fonts: Montserrat (Google Fonts).
 1. Клонирование репозитория
 
 Bash
-git clone https://github.com/твой-логин/название-репозитория.git
+git clone https://github.com/maratka09/Tex_Work.git
 cd название-репозитория
 2. Запуск Backend
 
