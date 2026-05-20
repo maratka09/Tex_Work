@@ -16,7 +16,7 @@ class ChatView(APIView):
         user_text = request.data.get('text')
         try:
             completion = client.chat.completions.create(
-                model="inclusionai/ring-2.6-1t:free",
+                model="google/gemini-2.0-flash-exp:free",
                 messages=[{"role": "user", "content": user_text}]
             )
             return Response({"reply": completion.choices[0].message.content})
